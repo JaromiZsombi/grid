@@ -24,3 +24,7 @@
     > git push -u origin master
 -a továbbiakban:
     > git push
+
+-magamnak git init után:
+    > git config user.name
+    > git config user.email
