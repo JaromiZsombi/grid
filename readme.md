@@ -4,6 +4,9 @@
 
 - helyi repo inicializálása
     > git init
+- felhasználónév és email megnézése:
+    > git config user.name
+    > git config user.email 
 - ellenőrzés:
     > git status
 - előkészítjük az commit-ra (a verzió létrehozására):
@@ -22,9 +25,9 @@
     > git remote add origin ...token@github.com...
 - a legelső alkalommal a push:
     > git push -u origin master
--a továbbiakban:
+- a továbbiakban:
     > git push
 
--magamnak git init után:
+- magamnak git init után:
     > git config user.name
     > git config user.email
